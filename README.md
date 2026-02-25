@@ -1,6 +1,4 @@
-Got it 👍 No extra stuff. Below is a **clean GitHub README** using **only the points you provided**, just structured and polished.
 
----
 
 # 🚀 Real-Time Collaborative Code Editor
 
