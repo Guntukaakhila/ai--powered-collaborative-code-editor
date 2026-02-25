@@ -61,7 +61,6 @@
 * **Custom AMI**
   Custom Amazon Machine Image configured with **Judge0** and **CloudWatch** for consistent deployments.
 
----
 
 ## 📈 Scaling Infrastructure
 
