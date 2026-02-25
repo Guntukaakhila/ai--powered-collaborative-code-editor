@@ -74,4 +74,17 @@
 * **CloudWatch Integration**
   Each instance reports metrics to CloudWatch for monitoring and scaling decisions.
 
+  Monorepo Structure
+
+  code-collab/
+├── apps/                 # Application packages
+│   ├── web/              # Next.js frontend application
+│   └── websocket/        # Custom WebSocket server
+├── packages/             # Shared packages
+│   ├── db/               # Prisma database schema and client
+│   ├── ui/               # Shared UI components
+│   ├── eslint-config/    # ESLint configuration
+│   └── typescript-config/# TypeScript configuration
+└── docker/               # Docker configuration files
+
 
